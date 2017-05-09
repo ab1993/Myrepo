@@ -1,2 +1,2 @@
-# Myrepo
+# TechTonicApp
 ##Intro of this application
